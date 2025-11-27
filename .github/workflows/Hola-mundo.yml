@@ -10,7 +10,7 @@ on:
        - main
      paths:
        - 'codigo/**'
-       - '.github/workflow/Hola-mundo.yml'
+       - '.github/workflows/Hola-mundo.yml'
   
   pull_request:
     branches:
